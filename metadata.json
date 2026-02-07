@@ -1,0 +1,7 @@
+{
+  "name": "ASPIER AI ChatBot",
+  "description": "A dedicated research assistant for Aeronautical, Spatial, Planetary Institution for Environmental Research (ASPIER), featuring voice and text chat with specialized research wings.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
